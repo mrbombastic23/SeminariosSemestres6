@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/waza/Tarea1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/IA_ENEMIGO_BB.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/IA_ENEMIGO_BT.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/AI_ENEMIGO_BP.uasset",
+				"D:/waza/Tarea1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/BTTask_BlueprintBase_Buscar.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/BTTask_Buscar.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/ENEMIGO/ENEMIGO-IA.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2V/03FWDHP54P3YY1C485KBUL.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/M8/38JI4TWD2MAPIEVB0IL73C.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8B/NLTAPM4GC4SRZOY8Y719J8.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/ENEMIGO/prueba.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/ENEMIGO/NewBlendSpace1D.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/ENEMIGO/NewBlendSpace.uasset",
+				"D:/waza/Tarea1/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/GamePlayElements/BP_FinalDoor.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/GamePlayElements/BP_CollectableItem.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/GamePlayElements/WinningTrigger.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/R8/ZWXRAS8GQEZFMGRNOHDQRB.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/PN/YFT7UZQU0KOQ4CWI7IRWX0.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7H/R80WI8N37M279Z2UL8FNZP.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/GamePlayElements/contador.uasset",
+				"D:/waza/Tarea1/Content/FirstPerson/Blueprints/IA_Enemigo/moneda.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/H8/C10PDZ1KYNYGF84LKKBOGW.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/OF/1LQA16U6YHM0OQMSJU0CP7.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LS/J494PCUTLMMKLQEU77CWL2.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/4W/S9QLRXBUGZK0Z553B74P77.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZQ/HZL6CL87W9XOB53GZ29XVU.uasset",
+				"D:/waza/Tarea1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Q5/VRG3RNX06DW78RV48J8FJ6.uasset"
+			]
+		}
+	]
+}
