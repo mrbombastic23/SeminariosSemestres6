@@ -1,0 +1,26 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/FirstPersonMap1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:815EFF32419BB0FCEDB63CA991FD5349 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:815EFF32419BB0FCEDB63CA991FD5349 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/FirstPersonMap1
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap1 Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap1.FirstPersonMap1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap1/0/KI/BTIVAP2RJEX4QSJSHGD6AA
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap1 - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
