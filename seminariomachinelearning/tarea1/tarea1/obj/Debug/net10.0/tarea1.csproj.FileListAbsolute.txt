@@ -1,0 +1,14 @@
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\tarea1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\tarea1.AssemblyInfoInputs.cache
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\tarea1.AssemblyInfo.cs
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\tarea1.csproj.CoreCompileInputs.cache
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\bin\Debug\net10.0\tarea1.exe
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\bin\Debug\net10.0\tarea1.deps.json
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\bin\Debug\net10.0\tarea1.runtimeconfig.json
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\bin\Debug\net10.0\tarea1.dll
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\bin\Debug\net10.0\tarea1.pdb
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\tarea1.dll
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\refint\tarea1.dll
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\tarea1.pdb
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\tarea1.genruntimeconfig.cache
+E:\Seminario6\seminariomachinelearning\tarea1\tarea1\obj\Debug\net10.0\ref\tarea1.dll
